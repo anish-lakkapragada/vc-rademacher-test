@@ -1,4 +1,4 @@
-# Code for "Using the VC Dimension & Rademacher Complexity" 
+# Code for ["Using the VC Dimension & Rademacher Complexity"](https://anish.lakkapragada.com/posts/vc-rademacher-test/#code)
 
 - `perceptron_function_class.py` runs the bound computations and visualization for the binary classification perceptron function class. 
 
